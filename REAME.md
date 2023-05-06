@@ -1,2 +1,2 @@
 # TR
-soem text
+soeme text
